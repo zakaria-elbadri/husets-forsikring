@@ -1,0 +1,20 @@
+{
+  "text": "Prisen stiger heller ikke, uanset hvor mange uheld, skader og totalskader, du har. Det kan den snildt gøre ved andre forsikringer. Med andre ord forventer vi - modsat andre - ikke, at du skal betale for først at få lov til at have en forsikring, og siden for at bruge den, når uheldet så er ude.",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_3_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

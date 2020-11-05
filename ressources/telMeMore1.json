@@ -1,0 +1,20 @@
+{
+  "text": "For det første er der ingen selvrisiko. Det er der tit på f.eks. elektroniktillæg til din indboforsikring.",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_2_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

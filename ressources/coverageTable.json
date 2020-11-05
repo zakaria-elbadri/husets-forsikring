@@ -1,0 +1,59 @@
+{
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "list",
+      "top_element_style": "compact",
+      "elements": [
+        {
+          "title": "2 års dækning",
+          "image_url": "https://s6.postimg.org/86nhj0iu9/2_years.png",
+          "subtitle": "Tablets, mobiltelefoner mv.",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Se alle produkter",
+              "payload": "VIEW_ALL_PRODUCT_2_PAYLOAD"
+            }
+          ]
+        },
+        {
+          "title": "3 års dækning",
+          "image_url": "https://s6.postimg.org/512vst081/3_years.png",
+          "subtitle": "Computere og relateret udstyr",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Se alle produkter",
+              "payload": "VIEW_ALL_PRODUCT_3_PAYLOAD"
+            }
+          ]
+        },
+        {
+          "title": "4 års dækning",
+          "image_url": "https://s6.postimg.org/w06qnymox/4_years.png",
+          "subtitle": "TV, paraboler, projektorer mv.",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Se alle produkter",
+              "payload": "VIEW_ALL_PRODUCT_4_PAYLOAD"
+            }
+          ]
+        },
+        {
+          "title": "5 års dækning",
+          "image_url": "https://s6.postimg.org/8ahaz9obl/5_years.png",
+          "subtitle": "Opvaskemaskiner, vaskemaskiner mv.",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Se alle produkter",
+              "payload": "VIEW_ALL_PRODUCT_5_PAYLOAD"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

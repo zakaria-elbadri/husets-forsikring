@@ -1,0 +1,33 @@
+{
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "button",
+      "text": "Godt valg! Det er altid en god idé at læse det med småt og sætte dig ind i hvad du køber. Især med forsikringer.\n\nTryk på knappen for at læse betingelserne.",
+      "buttons": [
+        {
+          "type": "web_url",
+          "url": "http://husetsforsikring.dk/kundeservice/forsikringsbetingelser?utm_source=facebook&utm_campaign=bot_answer&utm_medium=bot",
+          "title": "Læs betingelserne"
+        }
+      ]
+    }
+  },
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_1_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

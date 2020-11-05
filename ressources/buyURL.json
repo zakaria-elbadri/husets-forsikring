@@ -1,0 +1,28 @@
+{
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "button",
+      "text": "Gerne! Du har husket at læse det med småt?",
+      "buttons": [
+        {
+          "type": "web_url",
+          "url": "http://husetsforsikring.dk/commerce/kurv?utm_source=facebook&utm_campaign=bot_answer&utm_medium=bot",
+          "title": "Jeg vil gerne købe!"
+        }
+      ]
+    }
+  },
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_1_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Se det med småt",
+      "payload": "READ_FINE_PRINT_PAYLOAD"
+    }
+  ]
+}

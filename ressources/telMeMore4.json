@@ -1,0 +1,20 @@
+{
+  "text": "Siden vi dækker både elektronik og hvidevarer, kan du nøjes med én forsikring til det hele. Og så ved du altid, hvordan du er dækket - uanset hvad du køber, og hvor du køber det.",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_5_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

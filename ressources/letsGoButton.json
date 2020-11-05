@@ -1,0 +1,16 @@
+{
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "button",
+      "text": "Husets Elektronikforsikring er en helt ny slags forsikring, der dækker alle dine hvidevarer og al din elektronik for en fast månedlig pris.\n\nDen koster 99 kr./md., uanset hvor mange produkter, den dækker for dig. Og så er der forresten ingen selvrisiko og ingen afskrivning.",
+      "buttons": [
+        {
+          "type": "postback",
+          "title": "Let's go!",
+          "payload": "OVERVIEW_PAYLOAD"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "text": "Det vil sige, at hvis du køber et TV mandag og Husets Elektronikforsikring tirsdag, er TV’et ikke dækket før 3 måneder fra tirsdag.\n\nHvis du køber både TV og Husets Elektronikforsikring mandag, er TV’et dækket.\n\nHvis du køber Husets Elektronikforsikring mandag og TV’et tirsdag, er TV’et dækket.",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Se betingelserne",
+      "payload": "T_C_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Hvem står bag?",
+      "payload": "ABOUT_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

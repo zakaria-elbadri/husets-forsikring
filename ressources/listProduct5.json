@@ -1,0 +1,20 @@
+{
+  "text": "Vi dækker følgende produkter i 5 år fra datoen på produktets købsbevis:\n\n- Emhætte\n- Fryseskab\n- Indbygningsplade\n- Indbygningsovn\n- Komfur\n- Køl/frys\n- Køleskab\n- Mikro-/kombiovn\n- Opvaskemaskine\n- Parabol\n- Tørretumbler\n- Vaskemaskine\n- Vaske-/tørremaskine",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_1_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Se det med småt",
+      "payload": "READ_FINE_PRINT_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

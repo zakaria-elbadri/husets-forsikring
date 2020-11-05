@@ -1,0 +1,20 @@
+{
+  "text": "Der er en karensperiode på 3 måneder på de produkter der er købt før Husets Elektronikforsikring.",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Karensperiode...?",
+      "payload": "WAITING_PERIOD_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Hvem står bag?",
+      "payload": "ABOUT_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Se betingelserne!",
+      "payload": "T_C_PAYLOAD"
+    }
+  ]
+}

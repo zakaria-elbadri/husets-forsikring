@@ -1,0 +1,15 @@
+{
+  "text": "Vi dækker følgende produkter i 2 år fra datoen på produktets købsbevis:\n\n- Mobil\n- Tablet\n- Smartwatch\n- Ebogslæser",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Hvad er dækket 3 år?",
+      "payload": "VIEW_ALL_PRODUCT_3_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

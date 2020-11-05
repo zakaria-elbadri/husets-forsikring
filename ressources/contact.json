@@ -1,0 +1,25 @@
+{
+  "text": "Danrisk Forsikringsagentur\nHavnegade 1\n400 Roskilde\nkontakt@husetsforsikring.dk\n+45 53 700 362\n\nÅbningstider\nMan-tors kl. 09.00 -15.00\nFredag kl. 09.30 - 15.00",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Fortæl mig lidt mere",
+      "payload": "TELL_ME_MORE_1_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Se det med småt",
+      "payload": "READ_FINE_PRINT_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

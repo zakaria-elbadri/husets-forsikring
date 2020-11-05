@@ -1,0 +1,25 @@
+{
+  "text": "Det er Danrisk Forsikringsagentur, du køber forsikringen af. Danrisk har indgået en samarbejdsaftale med Dansk Supermarked og Gjensidige om at udbyde Husets Elektronikforsikring. Det kan du læse meget mere om i betingelserne.",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Se betingelserne",
+      "payload": "T_C_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Men hvad er dækket?",
+      "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Se det med småt",
+      "payload": "READ_FINE_PRINT_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

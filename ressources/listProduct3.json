@@ -1,0 +1,15 @@
+{
+  "text": "Vi dækker følgende produkter i 3 år fra datoen på produktets købsbevis:\n\n- Stationær computer\n- Laptop\n- Printer\n- Scanner\n- Skærm",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Hvad er dækket 4 år?",
+      "payload": "VIEW_ALL_PRODUCT_4_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}

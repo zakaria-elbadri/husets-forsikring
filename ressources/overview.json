@@ -1,0 +1,58 @@
+{
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "generic",
+      "elements": [
+        {
+          "title": "Hvad får jeg for pengene?",
+          "subtitle": "Vi synes det er en super god forsikring, og vil gerne fortælle dig lidt om hvorfor.",
+          "image_url": "https://s6.postimg.org/o12dsw7kx/USP.png",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Fortæl mig lidt mere",
+              "payload": "TELL_ME_MORE_1_PAYLOAD"
+            }
+          ]
+        },
+        {
+          "title": "OK, men hvad er dækket?",
+          "subtitle": "Forskellige slags produkter er dækket i forskellige perioder: 2, 3, 4 og 5 år.",
+          "image_url": "https://s6.postimg.org/tmoswy89t/coverage.png",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Se dækningstabel",
+              "payload": "VIEW_COVERAGE_TABLE_PAYLOAD"
+            }
+          ]
+        },
+        {
+          "title": "Det med småt",
+          "subtitle": "Det er altid en god idé at læse det med småt og sætte dig ind i hvad du køber.",
+          "image_url": "https://s6.postimg.org/5k7z22rmp/legal.png",
+          "buttons": [
+            {
+              "type": "postback",
+              "title": "Vis mig det med småt",
+              "payload": "READ_FINE_PRINT_PAYLOAD"
+            }
+          ]
+        },
+        {
+          "title": "Jeg vil gerne købe!",
+          "subtitle": "Gerne! Du har husket at læse det med småt?",
+          "image_url": "https://s6.postimg.org/mi6znx10h/buy.png",
+          "buttons": [
+            {
+              "type": "web_url",
+              "url": "http://husetsforsikring.dk/commerce/kurv",
+              "title": "Jeg vil gerne købe!"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

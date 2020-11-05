@@ -1,0 +1,20 @@
+{
+  "text": "Vi dækker følgende produkter i 4 år fra datoen på produktets købsbevis:\n\n- Foto\n- DVD\n- HiFi\n- TV\n- Projektor\n- Spillekonsol",
+  "quick_replies": [
+    {
+      "content_type": "text",
+      "title": "Hvad er dækket 5 år?",
+      "payload": "VIEW_ALL_PRODUCT_5_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Hvad er dækket 5 år?",
+      "payload": "VIEW_ALL_PRODUCT_5_PAYLOAD"
+    },
+    {
+      "content_type": "text",
+      "title": "Jeg vil gerne købe!",
+      "payload": "URL_BUY_PAYLOAD"
+    }
+  ]
+}
